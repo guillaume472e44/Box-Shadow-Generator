@@ -1,6 +1,6 @@
 # Générateur de box-shadow
 
-> `REACT` + `REDUX`
+> `REACT` + `REDUX` + `TAILWIND`
 
 Application permettant de construire des effets d'ombre et de générer du code pour la propriété box-shadow qui pourra être ajouté à une feuille de style CSS.
 
